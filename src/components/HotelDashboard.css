@@ -31,7 +31,7 @@
   }
   
   .recommendation {
-    background: white;
+    background: rgb(210, 239, 222);
     padding: 10px;
     border-radius: 10px;
   }
@@ -78,7 +78,7 @@
   }
   
   .service-item {
-    background: rgb(237, 233, 233);
+    background: rgb(242, 167, 167);
     padding: 10px;
     margin: 5px 0;
     border-radius: 10px;
@@ -96,6 +96,6 @@
   
   .menu-icon {
     font-size: 24px;
-    color: #555;
+    color: #05451f;
   }
   
